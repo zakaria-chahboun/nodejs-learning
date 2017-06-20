@@ -1,7 +1,7 @@
 # nodejs-learning
 
-my simple cours
-lering node js step by step
+my simple course
+Node.js: Step by Step
 
 ![alt text](https://nodeblog.files.wordpress.com/2011/07/grid.png)
 
