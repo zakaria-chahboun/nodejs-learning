@@ -1,0 +1,5 @@
+:: to install mongodb connection
+npm install -g mongodb // -g general
+
+:: to install tedious - Microsoft's SQL Server
+npm install tedious 
